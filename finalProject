@@ -1,0 +1,30 @@
+ <!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Cam's Final Project Page</title>
+        <style>
+            body{background-image: url('mybackground.jpg');}
+        </style>
+    </head>
+    <body>
+        <img src="mybanner.jpg">
+        <table>
+            <thead>
+                <tr>
+                    <th><a href="index.html"><img src="home.png"></a></th>
+                    <th><a href="javascripts.html"><img src="javascripts.png"></a></th>
+                    <th><a href="apps.html"><img src="apps.png"></a></th>
+                    <th><a href="aboutme.html"><img src="aboutme.png"></a></th>
+                    <th><a href="finalProject.html"><img src="finalProject.jpg"></a></th>
+                </tr>
+            </thead>
+        </table>
+        <h1>My Final Project</h1>
+        <p>This is my final project for the CSC 106 course. This game is based on Mario and The World's Hardest Game. <br> 
+           It is a 2D adventure game where you control a green rectangle. You can use the arrow keys to move around. <br>
+           The left and right arrow keys control the direction the character moves, while the up arrow lets the rectangle jump. <br>
+           Try to avoid the red and pink blocks, because they will send you back to the start. You have to collect the coins before progressing to the next stage. <br>
+           I hope you have fun, and thanks for stopping by!</p>
+    </body>
+</html>
